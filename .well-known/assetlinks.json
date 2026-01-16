@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.icr.tamkeen",
+    "sha256_cert_fingerprints":
+    ["AB:55:F4:84:7A:B1:AF:3A:C9:12:C1:B9:E9:75:0A:04:09:8A:32:34:2E:D4:41:C4:7E:BE:48:DE:A1:5E:A4:98"]
+  }
+}]
